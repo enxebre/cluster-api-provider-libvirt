@@ -35,8 +35,8 @@ virsh -c qemu+tcp://host_private_ip/system
 Before running the installer make sure you set libvirt to use the host private ip uri above:
 https://github.com/enxebre/installer/blob/libvirt-machine-api/examples/tectonic.libvirt.yaml#L13
 
-Follow usual steps using this branch:
-https://github.com/enxebre/installer/blob/master/Documentation/dev/libvirt-howto.md
+Follow usual steps cloning this branch:
+https://github.com/enxebre/installer/blob/libvirt-machine-api/Documentation/dev/libvirt-howto.md
 
 ## Video demo:
 https://youtu.be/urvXXfdfzVc
